@@ -1,8 +1,7 @@
 # The Core of the AI Bottleneck: HBM Analysis
 
 ## 🎥 HBM Visualized (Blender Animation)
-### [▶️ Click Here to Watch the Explainer Video](blender-explainer.mp4)
-*An animated breakdown of why HBM is the critical infrastructure for AI.*
+https://github.com/user-attachments/assets/b500fa9d-ca6d-4589-9fbc-6c9a744326e4
 
 ---
 
